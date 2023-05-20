@@ -1,0 +1,7 @@
+{
+  "name": "lib",
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
